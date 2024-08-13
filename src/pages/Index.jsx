@@ -1,5 +1,5 @@
 import React, { useRef, useEffect } from 'react';
-import PortfolioCompany from '../components/PortfolioCompany';
+import PortfolioCompany from '@/components/PortfolioCompany';
 import { toPng } from 'html-to-image';
 
 const portfolioCompanies = [

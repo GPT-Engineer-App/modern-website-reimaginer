@@ -1,5 +1,3 @@
-import React from 'react';
-
 const PortfolioCompany = ({ name, logo, description, link }) => {
   return (
     <div className="bg-white p-4 rounded-lg shadow">
